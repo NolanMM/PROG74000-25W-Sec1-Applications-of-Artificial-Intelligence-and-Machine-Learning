@@ -4,3 +4,4 @@ pandas
 notebook
 matplotlib
 scikit-learn
+tensorflow
