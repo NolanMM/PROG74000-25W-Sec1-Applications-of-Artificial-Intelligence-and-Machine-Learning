@@ -1,7 +1,14 @@
 scipy
 numpy
+tqdm
 pandas
+torch 
 notebook
+torchviz
+torchinfo
 matplotlib
-scikit-learn
 tensorflow
+torchaudio
+torchvision
+torchmetrics
+scikit-learn
