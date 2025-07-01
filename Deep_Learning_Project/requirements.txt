@@ -1,0 +1,8 @@
+google-api-python-client
+youtube-transcript-api
+python-dotenv
+matplotlib
+requests
+seaborn
+pandas
+numpy
